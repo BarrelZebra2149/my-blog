@@ -1,6 +1,5 @@
 //import "https://www.w3schools.com/w3css/4/w3.css";
 const FoodBlock = ({imgSrc, imgName, title, description}) => {
-    console.log(imgSrc)
     return (
         <div className="w3-quarter">
             <p><img src={imgSrc} alt={imgName} style={{width : "100%"}}/></p>

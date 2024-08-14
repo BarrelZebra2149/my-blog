@@ -4,35 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb401aa5-d001-4a46-ac69-eb5979f4b936" name="Changes" comment="food home page update">
-      <change afterPath="$PROJECT_DIR$/public/images/aboutImg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cherry.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pasta.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/samplePicture.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/sandwich.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/steak.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AboutSection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FoodBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FoodSection.js" afterDir="false" />
+    <list default="true" id="bb401aa5-d001-4a46-ac69-eb5979f4b936" name="Changes" comment="update OutsideAlerter">
       <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/OutsideAlerter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TopSection.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FoodBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TopSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopSection.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +92,17 @@
       <option name="presentableId" value="Default" />
       <updated>1723601088165</updated>
       <workItem from="1723601089283" duration="4579000" />
-      <workItem from="1723606388356" duration="11029000" />
+      <workItem from="1723606388356" duration="14828000" />
     </task>
+    <task id="LOCAL-00001" summary="navigation Update">
+      <option name="closed" value="true" />
+      <created>1723618849661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723618849661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="food home page update" />
-    <option name="LAST_COMMIT_MESSAGE" value="food home page update" />
+    <MESSAGE value="navigation Update" />
+    <MESSAGE value="update OutsideAlerter" />
+    <option name="LAST_COMMIT_MESSAGE" value="update OutsideAlerter" />
   </component>
 </project>
