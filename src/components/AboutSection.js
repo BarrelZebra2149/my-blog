@@ -5,7 +5,6 @@ import React from "react";
 const AboutSection = () => {
     return (
         <div className="w3-container w3-padding-32 w3-center">
-            <div className={"horizontal-rule"}/>
             <h3>About Me, The FoodBlock Man</h3><br></br>
             <img src="/images/aboutImg.jpeg" alt="Me" className="w3-image" style={{display:"block", margin:"auto", width:"800px", height:"533px"}}/>
                 <div className="w3-padding-32">

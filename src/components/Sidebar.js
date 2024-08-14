@@ -11,9 +11,9 @@ const Sidebar = ({isOpened, flagHandle}) => {
              zindex={2}
              id="mySidebar"
         >
-            <Link to="/" onClick={handleClose} className="w3-bar-item w3-button">Close Menu</Link>
-            <Link to="/" onClick={handleClose} className="w3-bar-item w3-button">Food</Link>
-            <Link to="/" onClick={handleClose} className="w3-bar-item w3-button">About</Link>
+            <Link to="/" onClick={handleClose} className="w3-bar-item w3-button">Home</Link>
+            <Link to="/food" onClick={handleClose} className="w3-bar-item w3-button">Food</Link>
+            <Link to="/about" onClick={handleClose} className="w3-bar-item w3-button">About</Link>
         </nav>
     );
     return isOpened && <OutsideAlerter flagHandle={flagHandle}>{sidebarContent}</OutsideAlerter>;

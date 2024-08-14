@@ -1,22 +1,12 @@
 import TopSection from "./TopSection";
 import Sidebar from "./Sidebar";
-import FoodSection from "./FoodSection";
-import AboutSection from "./AboutSection";
-import React, {useState} from "react";
+import WelcomeSection from "./WelcomeSection";
 
-const Home = ({}) => {
-    const [isOpened, setIsOpened] = useState(false);
-
-    const handleFlagChange = (flag) => {
-        setIsOpened(flag);
-    };
-
+const Home = ({isOpened, flagHandle}) => {
     return (
         <>
-            <TopSection flagHandle={handleFlagChange} />
-            <Sidebar isOpened={isOpened} flagHandle={handleFlagChange} />
-            <FoodSection />
-            <AboutSection />
+            <TopSection flagHandle={flagHandle} />
+            <Sidebar isOpened={isOpened} flagHandle={flagHandle} />
         </>
     );
 };
