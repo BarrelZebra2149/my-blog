@@ -1,6 +1,5 @@
 import TopSection from "./TopSection";
 import Sidebar from "./Sidebar";
-import WelcomeSection from "./WelcomeSection";
 
 const Home = ({isOpened, flagHandle}) => {
     return (
